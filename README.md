@@ -1,2 +1,2 @@
 # seytech-portal
-Seytech Portal Website made with HTML/CSS
+Seytech Portal Website made with HTML/CSS3
